@@ -1,0 +1,9 @@
+# Google API credentials
+credentials.json
+token.pickle
+
+# Python cache/virtual environment
+__pycache__/
+*.pyc
+myenv/
+.env/
