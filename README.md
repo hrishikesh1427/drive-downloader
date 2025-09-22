@@ -1,5 +1,4 @@
-Below is a **clear, beginner-friendly README.md** you can place in the project root.
-It explains the Google Cloud setup, environment creation, installation, and running steps so anyone can follow.
+
 
 ---
 
